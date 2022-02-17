@@ -1,0 +1,13 @@
+body{
+    background-size:cover;
+}
+h3{
+    box-shadow:5px 5px 30px red;
+    padding:10px;
+    margin:8px;
+}
+canvas{
+    border:5px solid white;
+border-radius:20px;
+box-shadow:5px 5px 5px gray;
+}
